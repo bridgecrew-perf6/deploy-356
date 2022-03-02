@@ -6,7 +6,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.io.FileWriter;
 
-public class Main {
+public class JavaJsonHandler {
     private static FileWriter fileToWrite;
 
     public static void main(String[] args) throws Exception {
